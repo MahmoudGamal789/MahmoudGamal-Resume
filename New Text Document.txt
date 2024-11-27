@@ -1,0 +1,12 @@
+ <ul>
+            <li>Project Management</li>
+            <li>Public Relations</li> 
+            <li>Teamwork</li> 
+            <li>Time Management</li> 
+            <li>Leadership</li>
+            <li>Effective Communication</li>
+            <li>Social media marketing</li>
+            <li>Research and data analysi</li>
+            <li>Fron-End Developer</li>
+            <li>Agular Js</li>
+        </ul>
